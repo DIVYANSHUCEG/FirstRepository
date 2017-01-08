@@ -9,7 +9,7 @@ public class CalcExample{
 	static int multiply(int a,int b){
 		return 0;
 	}
-	static int divide(int a,int b){
-		return 0;
+	static float divide(int a,int b){
+		return (float)a/b;
 	}
 }
